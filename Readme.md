@@ -19,7 +19,7 @@ This repository contains a complete implementation of an image classification pi
 - 💾 Save/load model weights as `.npy` or `.npz`
 - 🧪 Optional **Image Augmentation** (flip & rotation)
 - 🧮 **Batch-wise Gradient Descent**
-- 📊 Achieves ~80% accuracy without filter learning
+- 📊 Achieves ~75% accuracy without filter learning
 
 ---
 
